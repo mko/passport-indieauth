@@ -1,11 +1,11 @@
 {
   "name": "passport-indieauth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "IndieAuth authentication strategy for Passport.",
   "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
   "repository": {
     "type": "git",
-    "url": "http://github.com/mowens/passport-indieauth.git"
+    "url": "http://github.com/mko/passport-indieauth.git"
   },
   "main": "./lib/passport-indieauth",
   "dependencies": {
