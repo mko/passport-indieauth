@@ -1,6 +1,6 @@
 {
   "name": "passport-indieauth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "IndieAuth authentication strategy for Passport.",
   "author": "Michael Owens <mk@mowens.com> (http://mowens.com/)",
   "repository": {
