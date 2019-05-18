@@ -1,4 +1,7 @@
 # NOT READY FOR GENERAL USAGE YET.
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mko/passport-indieauth.svg)](https://greenkeeper.io/)
+
 # CONTACT mko ON IRC IN #indiewebcamp FOR MORE INFO
 
 # Passport-IndieAuth
